@@ -1,0 +1,11 @@
+d:\immortalthings\immortalgithubprjs\gRPC_Rust\target\debug\deps\futures_core-0b91c3813af9303d.rmeta: C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\lib.rs C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\future.rs C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\stream.rs C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\task\mod.rs C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\task\poll.rs C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\task\__internal\mod.rs C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\task\__internal\atomic_waker.rs
+
+d:\immortalthings\immortalgithubprjs\gRPC_Rust\target\debug\deps\futures_core-0b91c3813af9303d.d: C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\lib.rs C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\future.rs C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\stream.rs C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\task\mod.rs C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\task\poll.rs C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\task\__internal\mod.rs C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\task\__internal\atomic_waker.rs
+
+C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\lib.rs:
+C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\future.rs:
+C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\stream.rs:
+C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\task\mod.rs:
+C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\task\poll.rs:
+C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\task\__internal\mod.rs:
+C:\Users\tuana\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.28\src\task\__internal\atomic_waker.rs:
